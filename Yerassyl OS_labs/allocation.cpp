@@ -79,4 +79,5 @@ int main(){
 	// 		cout<<i<<"                "<<processes[i]<<"              "<<"Not enough space"<<endl;
 	// 	}
 	// }
+	return 0;
 }
